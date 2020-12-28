@@ -1,0 +1,13 @@
+{
+  "instagram": {
+    "login": "es3n.in",
+    "password": "oh_no_my_secret_password_stolen"
+  },
+  "ig_repost_bot": {
+    "targets_usernames": ["es3n.in"]
+  },
+  "telegram": {
+    "channel_id": 12345678,
+    "bot_token": "1234:OhNoMyTokENStolEn"
+  }
+}
