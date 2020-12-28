@@ -3,7 +3,9 @@ A tool that reposts items from instagram feed & stories feed to specific telegra
 
 ### Installing
 1. `sudo apt install python3-pip`
-2. `sudo python3 -m pip install -r requirements.txt`
+2. `git clone https://github.com/es3n1n/ig_repost_bot.git`
+3. `cd ig_repost_bot`
+4. `sudo python3 -m pip install -r requirements.txt`
 
 ### Configuring
 1. Rename `config.json.example` to `config.json`
